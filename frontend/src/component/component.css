@@ -1,0 +1,11 @@
+.highlighter {
+  color: #000000;
+  background-color: rgb(131, 195, 255);
+}
+
+.read-more-link {
+  color: rgb(131, 195, 255);
+  text-decoration: underline;
+  letter-spacing: 1px;
+  cursor: pointer;
+}

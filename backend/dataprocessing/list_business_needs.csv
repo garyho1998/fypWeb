@@ -1,0 +1,425 @@
+﻿Reference Code,Title (Eng),Application Areas,Technologies to be Used
+N-0001,CCTV Video Analytic,"Transport
+","Artificial Intelligence (AI)
+Deep Learning
+Internet of Things (IoT)
+Machine Learning
+Video Analytics
+"
+N-0002,Management of Valuable Audio-Visual (AV) Equipment ,"Asset Management
+","Radio Frequency Identification (RFID)
+"
+N-0003,Project Collaboration System,"Development
+Infrastructure
+","Mobile Technologies
+Robotic Process Automation
+Advanced Environmental Technology
+"
+N-0004,Automated Cyber Security Information Analysis,"Law and Security
+","Artificial Intelligence (AI)
+Data Analytics
+Deep Learning
+Machine Learning
+Natural Language Processing
+Predictive Analytics
+"
+N-0005,Improvement of Telecommunication Network Service in Rural Areas,"Infrastructure
+","Mobile Technologies
+Telecommunications
+"
+N-0006,Image Matching for Insect Knowledge Base,"Environment
+Health
+","Artificial Intelligence (AI)
+Data Analytics
+Deep Learning
+Machine Learning
+Image Recognition
+"
+N-0007,Building an innovative data bank of construction project costs,"Infrastructure
+Construction industry
+","Artificial Intelligence (AI)
+Data Analytics
+Predictive Analytics
+"
+N-0008,Enhancement of estimating process for construction projects,"Infrastructure
+Construction industry
+","Artificial Intelligence (AI)
+Data Analytics
+Predictive Analytics
+"
+N-0009,Tree Stability Monitoring System,"City Management
+Environment
+Tree Management
+","Artificial Intelligence (AI)
+Data Analytics
+Deep Learning
+Internet of Things (IoT)
+Machine Learning
+Predictive Analytics
+"
+N-0010,AI-powered Learning Platform,"Education
+","Artificial Intelligence (AI)
+Data Analytics
+"
+N-0011,Complaint and Enquiry Case Information System,"Transport
+","Artificial Intelligence (AI)
+Deep Learning
+Machine Learning
+Predictive Analytics
+"
+N-0012,Automatic Traffic Survey for Pedestrian and Vehicular Traffic,"Transport
+","Artificial Intelligence (AI)
+Deep Learning
+Machine Learning
+Video Analytics
+"
+N-0013,Mobile access to internal information for staff,"Administration
+","Mobile Technologies
+"
+N-0014,Use of Innovative Virtual Reality and Biofeedback in Clinical Psychological Treatment,"Social Welfare
+","Artificial Intelligence (AI)
+Mobile Technologies
+Virtual Reality
+"
+N-0015,Optimization of delivery route design in Hong Kong,"Commerce and Industry
+Transport
+","Data Analytics
+Machine Learning
+Mobile Technologies
+Predictive Analytics
+"
+N-0016,Integration of Chatbot with Service Call System,"Infrastructure
+","Artificial Intelligence (AI)
+Data Analytics
+Machine Learning
+Natural Language Processing
+"
+N-0017,Development of a Mobile Platform for Site Audit and Inspection Recording System,"City Management
+Development
+","Data Analytics
+Mobile Technologies
+Robotic Process Automation
+"
+N-0018,Revamp of Site Tracking Information System,"City Management
+Development
+Environment
+Housing
+","Data Analytics
+GIS
+"
+N-0019,Implementation of Food Coding System ,"Food
+","Data Analytics
+Robotic Process Automation
+"
+N-0020,Proof of concept of Computerized Training System for Incident Command System,"Education
+Law and Security
+","Data Analytics
+Virtual Reality
+"
+N-0021,Proof-of-Concept (PoC) for anti-bot solution,"Commerce and Industry
+Development
+Education
+Infrastructure
+Law and Security
+Recreation and Culture
+Social Welfare
+Transport
+","Artificial Intelligence (AI)
+Machine Learning
+Anti-bot technology
+"
+N-0022,Transfer of Trademark Ownership,"Commerce and Industry
+","Blockchain
+"
+N-0023,Online operational status monitoring for water dispensers installed in government venues,"City Management
+Health
+","Data Analytics
+Internet of Things (IoT)
+Mobile Technologies
+Predictive Analytics
+"
+N-0024,IoT outdoor sensors for detecting real-time parking occupancy,"Transport
+","Internet of Things (IoT)
+"
+N-0025,Air-conditioner Water Dripping Detection System in High-rise Buildings,"Environment
+Health
+",
+N-0026,Alerting Notification Service,"Commerce and Industry
+","Blockchain
+"
+N-0028,Advanced Technology in Detection of Leakage in Embedded Drainage Pipe,"Environment
+Health
+",
+N-0029,Mobile Version of Geospatial Information Hub (mGIH),"City Management
+Development
+Infrastructure
+","Mobile Technologies
+Virtual Reality
+GIS
+"
+N-0030,Process meteorological data to provide urban-scale weather forecasting products,"City Management
+Climate and Weather
+Environment
+","Data Analytics
+Predictive Analytics
+"
+N-0031,Enhancement of Operational Efficiency at the Government Data Centre Complex,"Infrastructure
+","Artificial Intelligence (AI)
+Data Analytics
+Deep Learning
+Machine Learning
+Predictive Analytics
+"
+N-0032,Protection of Internet-facing eServices against Distributed Denial of Service Attacks,"Infrastructure
+","Artificial Intelligence (AI)
+Cloud Computing
+Mobile Technologies
+"
+N-0033,Real Time Analytics for Government Websites and e-Services,"Broadcasting
+Infrastructure
+","Cloud Computing
+Data Analytics
+"
+N-0034,Enhancement of Security Management at the Data Centre,"Infrastructure
+Law and Security
+","Radio Frequency Identification (RFID)
+Video Analytics
+People counting technologies; Motion detection; Laser/Infrared/RF based Intrusion Detection; Virtual door
+"
+N-0035,??Smart?? Car Park Management System,"City Management
+Transport
+","Data Analytics
+Internet of Things (IoT)
+Mobile Technologies
+Predictive Analytics
+"
+N-0036,Chatbot and internet communication service,"Commerce and Industry
+Public service
+","Artificial Intelligence (AI)
+Machine Learning
+Natural Language Processing
+"
+N-0037,Information push service,"Broadcasting
+Development
+","Artificial Intelligence (AI)
+Data Analytics
+Machine Learning
+"
+N-0038,Approved Signboards Identification System - ASIS,"City Management
+Commerce and Industry
+Development
+Building Information Management
+","Artificial Intelligence (AI)
+Machine Learning
+Optical Character Recognition
+"
+N-0039,Defective Signboards Diagnostic System (DSDS),"City Management
+Commerce and Industry
+Development
+Environment
+Law and Security
+","Artificial Intelligence (AI)
+Data Analytics
+Machine Learning
+Mobile Technologies
+Video Analytics
+"
+N-0040,Signboard Inspection and Database Operation Hub (SIDOH),"City Management
+Commerce and Industry
+Development
+Environment
+Building Information Management
+","Cloud Computing
+Data Analytics
+Internet of Things (IoT)
+Machine Learning
+Mobile Technologies
+Predictive Analytics
+Building Information Modelling
+"
+N-0042,Implementation of Intelligent Analytical Solution of Passenger Flow,"Law and Security
+","Artificial Intelligence (AI)
+Deep Learning
+Video Analytics
+"
+N-0043,Automate the verification of electronic documents,"Commerce and Industry
+","Artificial Intelligence (AI)
+Robotic Process Automation
+"
+N-0045,Virtual Reality Tools for Environmental Incident / Operation Support and Training ,"Environment
+Law and Security
+","Data Analytics
+Mixed Reality
+Virtual Reality
+"
+N-0046,4D Visualisation of Spatial Data,"Environment
+","Augmented Reality
+Internet of Things (IoT)
+Mixed Reality
+Robotic Process Automation
+Virtual Reality
+"
+N-0047,Smart Digital Film,"Commerce and Industry
+Law and Security
+","Internet of Things (IoT)
+Smart Film
+"
+N-0048,Smart Film to Display Real-time Data,"Environment
+Recreation and Culture
+","Internet of Things (IoT)
+"
+N-0049,Improve the auto-matching of two types of electronic documents originated from independent information source,"Commerce and Industry
+","Artificial Intelligence (AI)
+Deep Learning
+Machine Learning
+Natural Language Processing
+"
+N-0050,Virtual environment without headmount wearable device to visualise 3D models,"City Management
+Commerce and Industry
+Development
+Education
+Environment
+","Internet of Things (IoT)
+Virtual Reality
+"
+N-0052,Guiding Robot for a Showroom,"Education
+Recreation and Culture
+","Artificial Intelligence (AI)
+Internet of Things (IoT)
+Machine Learning
+Robotic Process Automation
+"
+N-0053,Flow Management System,"City Management
+Environment
+Law and Security
+Population
+","Artificial Intelligence (AI)
+Data Analytics
+Machine Learning
+Video Analytics
+"
+N-0055,Automation of the validation and assessment process of electronic applications,"Commerce and Industry
+Law and Security
+","Artificial Intelligence (AI)
+Machine Learning
+Natural Language Processing
+Robotic Process Automation
+"
+N-0057,Automatic Pedestrian Counting,"Development
+Infrastructure
+Transport
+","Artificial Intelligence (AI)
+Data Analytics
+"
+N-0059,Traffic Snapshot Images on Smart Lampposts,"City Management
+Transport
+","Artificial Intelligence (AI)
+Cloud Computing
+Internet of Things (IoT)
+Machine Learning
+"
+N-0060,Estimate Sectional Travel Speed and Time on Smart Lampposts,"City Management
+Transport
+","Artificial Intelligence (AI)
+Cloud Computing
+Internet of Things (IoT)
+Machine Learning
+"
+N-0061,Vehicles Type Identification on Smart Lampposts,"City Management
+Transport
+","Artificial Intelligence (AI)
+Cloud Computing
+Internet of Things (IoT)
+Machine Learning
+"
+N-0062,Traffic Condition Video on Smart Lampposts,"City Management
+Transport
+","Artificial Intelligence (AI)
+Cloud Computing
+Internet of Things (IoT)
+Machine Learning
+"
+N-0063,Real-time incident detection system on shared-use pavement for pedestrians and cyclists,"City Management
+Transport
+","Artificial Intelligence (AI)
+Data Analytics
+Deep Learning
+Video Analytics
+"
+N-0064,Mobile Phone Applications on Way Finding Services with Augmented Reality ,"Broadcasting
+City Management
+Recreation and Culture
+","Augmented Reality
+Mobile Technologies
+"
+N-0065,Automatic Bicycle Rental System (including Booking and Payment System) ,"City Management
+Recreation and Culture
+Transport
+","Artificial Intelligence (AI)
+Data Analytics
+Mobile Technologies
+"
+N-0066,Monitoring of Illegal Dumping on Smart Lampposts,"City Management
+Environment
+","Artificial Intelligence (AI)
+Cloud Computing
+Internet of Things (IoT)
+Machine Learning
+"
+N-0067,Multipurpose System for Case Management ,"Development
+","Artificial Intelligence (AI)
+Data Analytics
+Robotic Process Automation
+"
+N-0068,Intelligent Searching Tools,"Development
+","Artificial Intelligence (AI)
+Chatbot ???????????????
+"
+N-0070,Automation of data verification,"Education
+","Artificial Intelligence (AI)
+Machine Learning
+Natural Language Processing
+Robotic Process Automation
+"
+N-0071,"Automatic identification, notification and processing of missing documents","Education
+","Robotic Process Automation
+"
+N-0072,"Mobile platform with handheld devices for on-site inspection, home visits and interviews","Education
+","Mobile Technologies
+Robotic Process Automation
+"
+N-0073,Application data analysis for risk based authentication,"Education
+","Artificial Intelligence (AI)
+Data Analytics
+Predictive Analytics
+"
+N-0074,Chatbot for enquiry service.,"Education
+","Artificial Intelligence (AI)
+Machine Learning
+Natural Language Processing
+"
+N-0075,Form filling guiding robot at service counters,"Education
+","Artificial Intelligence (AI)
+Machine Learning
+Robotic Process Automation
+"
+N-0077,Smart license processing virtual robot,"Environment
+","Artificial Intelligence (AI)
+Machine Learning
+Robotic Process Automation
+Optical Character Recognition
+"
+N-0078,Integrate and analyse GIS and BIM data and visualise environmental impacts at CAVE,"Environment
+","Data Analytics
+Virtual Reality
+"
+N-0079,Automatic processing and chasing of documents,"Contract Management????????????
+","Artificial Intelligence (AI)
+Machine Learning
+Robotic Process Automation
+Workflow automation?????????????????????
+"
+N-0082,Office Delivery Robot,"Government
+","Artificial Intelligence (AI)
+Robotic Process Automation
+"
