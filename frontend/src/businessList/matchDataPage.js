@@ -62,13 +62,10 @@ export default function MatchDataPage() {
 
   return (
     <div className={classes.root}>
-      <h1 className={classes.title}>With Existing Business Needs</h1>
-      <h3 className={classes.title}>Search For Solutions</h3>
+      <h1 className={classes.title}>Intelligent matching of business needs and IT solutions</h1><br/>
+      <h2 className={classes.title}>Existing Business needs’ solutions</h2>
       <p className={classes.description} style={{ color: "#aaaaaa" }}>
-        This text is center-aligned on screen widths from 992px and up. This
-        text is center-aligned on screen widths from 992px and up. This text is
-        center-aligned on screen widths from 992px and up. This text is
-        center-aligned on screen widths from 992px and up.
+
       </p>
       <Box className={classes.box}>
         <Grid container spacing={3} justify="center" alignItems="top">

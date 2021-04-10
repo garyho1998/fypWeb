@@ -45,9 +45,9 @@ export const Main = ({ page, notFound }) => {
             className="header-child"
             to="/businessList"
             onClick={handleBusinessListIcon}>
-            BusinessNeeds
+            Business Needs
           </Link>
-          <Link className="header-child">ITSolutions</Link>
+          <Link className="header-child">IT Solutions</Link>
           <Link className="header-child">Contact Us</Link>
           <Link className="header-child">Documents</Link>
         </header>

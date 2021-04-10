@@ -52,13 +52,10 @@ export default function ResultedITList(props) {
   //   }
   return (
     <div className={classes.root}>
-      <h1 className={classes.title}>Resulted IT solutions List</h1>
-      <h3 className={classes.title}>of New Business Needs</h3>
+      <h1 className={classes.title}></h1>Intelligent matching of business needs and IT solutions<br/>
+      <h2 className={classes.title}>Resulted IT solutions List</h2>
       <p className={classes.description} style={{ color: "#aaaaaa" }}>
-        This text is center-aligned on screen widths from 992px and up. This
-        text is center-aligned on screen widths from 992px and up. This text is
-        center-aligned on screen widths from 992px and up. This text is
-        center-aligned on screen widths from 992px and up.
+ 
       </p>
       <Box className={classes.box}>
         <SolutionList itSolutions={props.itSolutions}></SolutionList>

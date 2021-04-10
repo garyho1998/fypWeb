@@ -57,13 +57,11 @@ export default function SearchArea(props) {
 
   return (
     <div className={classes.root}>
-      <h1 className={classes.title}>Search For IT solutions</h1>
-      <h3 className={classes.title}>By Deep Learning</h3>
+      <h1 className={classes.title}>Intelligent matching of business needs and IT solutions</h1>
+      <br/>
+      <h2 className={classes.title}>IT solutions Searching Engine</h2>
       <p className={classes.description} style={{ color: "#aaaaaa" }}>
-        This text is center-aligned on screen widths from 992px and up. This
-        text is center-aligned on screen widths from 992px and up. This text is
-        center-aligned on screen widths from 992px and up. This text is
-        center-aligned on screen widths from 992px and up.
+        
       </p>
       <Box className={classes.box}>
         {" "}
@@ -81,7 +79,7 @@ export default function SearchArea(props) {
               multiline
               fullWidth
               rows={15}
-              placeholder="input here"
+              placeholder="Input your Business Needs Paragraph"
               variant="outlined"
               onChange={handleChange}
               value={props.businessParagraph}
