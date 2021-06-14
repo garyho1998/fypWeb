@@ -1,5 +1,4 @@
-import { Grid, Link, ListItem, ListItemText, Box } from "@material-ui/core";
-import { useState, useEffect } from "react";
+import { Grid, ListItem, ListItemText } from "@material-ui/core";
 import Highlighter from "../component/highlighter";
 import ReadMore from "../component/readmore";
 

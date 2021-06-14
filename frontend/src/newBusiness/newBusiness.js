@@ -1,11 +1,7 @@
 import React from "react";
-import { useState, useEffect } from "react";
-import { makeStyles } from "@material-ui/core/styles";
-import { Grid, TextField, Box, Fab } from "@material-ui/core";
-import SearchIcon from "@material-ui/icons/Search";
+import { useState } from "react";
 import { getNewBusinessMatch } from "./newBusinessDao";
 import LoadingBackdrop from "./loadingBackdrop";
-import SolutionList from "../businessList/solutionList";
 import ResultedITList from "./resultedITList";
 import SearchArea from "./searchArea";
 

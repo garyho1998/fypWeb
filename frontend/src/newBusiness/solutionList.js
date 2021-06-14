@@ -1,6 +1,5 @@
 import { Grid, List, ListSubheader } from "@material-ui/core";
 import { makeStyles } from "@material-ui/core/styles";
-import { useState, useEffect } from "react";
 import SolutionItem from "./solutionItem";
 
 const useStyles = makeStyles((theme) => ({

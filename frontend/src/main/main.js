@@ -1,5 +1,4 @@
-import { useState, useEffect } from "react";
-import { CartContainer } from "../shopping-cart/components/cartContainer";
+import { useState } from "react";
 import { Link } from "react-router-dom";
 import "./main.css";
 import NewBusiness from "../newBusiness/newBusiness";
@@ -10,9 +9,6 @@ import Divider from "@material-ui/core/Divider";
 export const Main = ({ page, notFound }) => {
   const [pageState, setPageState] = useState(page);
   const [showResult, setShowResult] = useState(false);
-  const handleCartIcon = () => {
-    setPageState("cart");
-  };
 
   const handleBusinessListIcon = () => {
     setPageState("businessList");

@@ -40,19 +40,9 @@ const useStyles = makeStyles((theme) => ({
 
 export default function ResultedITList(props) {
   const classes = useStyles();
-  //   function parseJson(s) {
-  //     s.map((x) => {
-  //       console.log(x["Reference Code"]);
-  //     });
-  //   }
-  //   try {
-  //     parseJson(props.itSolutions);
-  //   } catch (e) {
-  //     console.log("e:", e);
-  //   }
   return (
     <div className={classes.root}>
-      <h1 className={classes.title}></h1>Intelligent matching of business needs and IT solutions<br/>
+      <h1 className={classes.title}>Intelligent matching of business needs and IT solutions</h1><br/>
       <h2 className={classes.title}>Resulted IT solutions List</h2>
       <p className={classes.description} style={{ color: "#aaaaaa" }}>
  

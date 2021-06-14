@@ -1,6 +1,5 @@
-import { Grid, List, ListItem, ListItemText, Box } from "@material-ui/core";
+import { Grid, ListItem, ListItemText } from "@material-ui/core";
 import { useState, useEffect } from "react";
-import Highlighter from "../component/highlighter";
 import { getSolution } from "../component/businessDao";
 
 export default function SolutionItem(props) {

@@ -1,7 +1,7 @@
 import React from "react";
 import { makeStyles } from "@material-ui/core/styles";
 import { useState, useEffect } from "react";
-import { Grid, List, ListItem, ListItemText, Box } from "@material-ui/core";
+import { Grid, Box } from "@material-ui/core";
 
 import { getBusinessMatch, getSolutionMatch } from "../component/businessDao";
 import SolutionList from "./solutionList";
